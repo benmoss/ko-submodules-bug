@@ -1,0 +1,3 @@
+[submodule "serving"]
+	path = serving
+	url = git@gitlab.eng.vmware.com:core-build/mirrors_github_serving.git
